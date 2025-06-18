@@ -41,9 +41,13 @@ Climate change is one of the most pressing challenges facing humanity today. It 
 Output:
 
 Summary: Climate change is one of the most pressing challenges facing humanity today. Addressing climate change requires urgent and coordinated global action. International agreements aim to limit global warming to well below 2 degrees Celsius.
+
 Keywords: ['climate', 'change', 'global', 'action', 'changes']
+
 Sentiment: Compound
+
 Topic: Health
+
 Compression Score: 0.12
 
 📄 License
