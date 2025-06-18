@@ -25,7 +25,7 @@ A web-based NLP tool to **summarize text**, **extract keywords**, **analyze sent
 ```bash
 pip install transformers spacy vaderSentiment scikit-learn gradio
 python -m spacy download en_core_web_sm
-
+```
 ▶️ Usage
 Run in Jupyter/Colab.
 
